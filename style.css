@@ -1,0 +1,137 @@
+.bg {
+  background: linear-gradient(30deg, #225393, #002351);
+}
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.block {
+  padding-top: 100px;
+}
+
+.col-lg-6 h1 {
+  margin-bottom: 20px;
+  font-weight: 300;
+  color: white;
+}
+
+.col-lg-6 h2 {
+  color: #7393c1;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.icon_apple img {
+  margin-top: 30px;
+}
+
+span {
+  display: inline-block;
+}
+
+.icon_apple span {
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-top: 25px;
+    margin-right: 20px;
+    color: #7393c1;
+}
+
+.col-lg-12 h1 {
+  color: black;
+  margin-top: 50px;
+}
+
+.col-lg-12 p {
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  padding-right: 0;
+  color: #9ba6b7;
+  margin-top: 30px;
+}
+
+.col-lg-4 img {
+  width: 300px;
+  height: 400px;
+  margin-left: 30px;
+}
+
+.focus {
+  text-align: right;
+  padding-top: 80px;
+}
+
+.focus h2 {
+  color: #274daf;
+  font-size: 18px;
+}
+
+.timebox {
+  padding-top: 160px;
+}
+
+.timebox h2 {
+  color: #274daf;
+  font-size: 18px;
+}
+
+.pomodoro h1 {
+  color: white;
+  padding-top: 25px;
+}
+
+.pomodoro p {
+    font-size: 18px;
+    color: #7393c1;
+    font-weight: 300;
+}
+
+.photo img {
+    width: 242px;
+    height: 302px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.photo h3 {
+    color: white;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.photo p {
+    color: #7393c1;
+    padding-top: 10px;
+}
+
+.calendary h1 {
+  margin-top: 50px;
+}
+
+.calendary h4 {
+    color: #9ba6b7;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+.stats img {
+  padding-top: 40px;
+  width: 376px;
+  height: 607px;
+}
+
+.contact {
+  color: #7393c1;
+}
+
+.contact h5 {
+  color: white;
+  cursor: pointer;
+}
+
+footer .bg {
+  padding: 20px;
+}
